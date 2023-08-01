@@ -1,4 +1,4 @@
-<img width="100%" height="400px" alt="coding" src="https://img.freepik.com/premium-vector/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-hand_127544-1212.jpg?w=360" />
+<img width="100%" height="400px" alt="coding" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" />
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
