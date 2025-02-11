@@ -1,6 +1,6 @@
 <img alt="coding" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" />
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">A passionate frontend developer and programmer from India</h3>
+<h3 align="center">A passionate Web developer and programmer from India</h3>
 
 <img align="center" alt="coding" width="800px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
